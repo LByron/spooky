@@ -6,9 +6,10 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "casperjs": "^1.1.0-beta3",
-    "spooky": "^0.2.5"
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7",
+    "spooky": "^0.2.5",
+    "tiny-jsonrpc": "^2.0.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
