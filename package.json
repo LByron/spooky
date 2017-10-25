@@ -6,11 +6,14 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "async": "^2.5.0",
     "axios": "^0.17.0",
     "bluebird": "^3.5.1",
     "casperjs": "^1.1.4",
     "lodash": "^4.17.4",
+    "performance-now": "^2.1.0",
     "phantomjs": "^2.1.7",
+    "requestretry": "^1.12.2",
     "sitemapper": "^2.1.13",
     "spooky": "^0.2.5",
     "superagent": "^3.7.0",
